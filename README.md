@@ -5,4 +5,4 @@ All I ask is that any changes you make to this font be uploaded back to this Git
 - [ ] Fix kerning and other character spacing.
 - [ ] Make the characters more rounded and even.
 - [ ] Expand the glyph set.
-- [ ] Make the font variable. (This is a long time goal)
+- [ ] Make the font variable in weight and spacing. (This is a long time goal)
